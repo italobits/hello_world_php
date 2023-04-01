@@ -1,5 +1,8 @@
 <?php
 
-echo "hello world!"
+echo "hello world! ";
+echo " add new line... ";
 
+$nome = "italo";
+echo $nome;
 ?>
